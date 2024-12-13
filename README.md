@@ -1,5 +1,4 @@
-## Hi there 👋
-
+This is my example project that i just did for Educational purposes 
 <!--
 **MJ-cmds/MJ-cmds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
